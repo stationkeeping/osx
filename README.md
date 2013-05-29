@@ -1,4 +1,4 @@
 osx
 ===
 
-Useful bits and pieces.
+Useful bits and pieces for development on OSX.
